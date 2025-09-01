@@ -19,7 +19,7 @@ int main() {
     
     // ==================== PROCESO ====================
     // Encontrar el menor usando operador ternario y estructuras condicionales
-    int menor = num1;
+    int menor = num1; // Punto de partida
     menor = (num2 < menor) ? num2 : menor;
     menor = (num3 < menor) ? num3 : menor;
     menor = (num4 < menor) ? num4 : menor;
