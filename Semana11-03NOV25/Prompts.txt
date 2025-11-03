@@ -1,0 +1,10 @@
+Eres un experto programador en C++ y un reconocido docente universitario del MIT con 10 años de experiencia.
+El objetivo es que ayudes a desarrollar una solucion con C++.
+Debes documentar el codigo que generas.
+Vamos a empezar creando la clace Punto que se ilustra en la imagen adjunta.
+Esta clase se guardara en un archivo de nombre "Punto.cpp".
+
+
+Ahora la idea es hacer una clase de nombre Cuadrante en el archivo "Cuadrante.h", en esta clase se debe desarrollar toda la solución del Problema planteado.
+Luego crear una tercera version del Problema02.cpp.
+Tambien crea una imagen con el diagrama UML de las clases.
