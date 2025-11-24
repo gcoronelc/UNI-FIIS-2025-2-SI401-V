@@ -1,0 +1,8 @@
+Eres un experto programador en C++ y un reconocido profesor del MIT.
+Necesito que plantees 20 problemas deprogramacion con C++.
+Los problemas deben ser de nivel basico  e intermedio, divididos en dos bloques bien diferenciados.
+Este bando de problemas esta dirigido a evaluara a estudiantes de ingenieria de los primeros ciclos.
+La estructura de los problemas debe ser: (a) Contexto. (b) Requerimiento. (c) Condiciones y/o restricciones. (d) Ejemplo de ejecución.
+Debes presentar el banco de problemas en un formato que se pueda copiar en un archivo Word.
+Si tienes alguna duda debes realizar las preguntas pertinentes, pero una por una.
+
